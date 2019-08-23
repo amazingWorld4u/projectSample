@@ -29,7 +29,7 @@ class App extends Component{
   render(){
     return(
       <View>
-        <Text>hello</Text>
+        <Text>Good</Text>
         <TouchableHighlight onPress={() => {
   var options = {
     description: 'Credits towards consultation',
